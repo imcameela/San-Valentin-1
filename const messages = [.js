@@ -1,14 +1,14 @@
 const messages = [
-    "Seguro?",
-    "Muy seguro??",
-    "Estas 100% seguro?",
-    "Andale di que si",
-    "Piensalo otra vez",
-    "Si dices que no me voy a awitar",
-    "Muy muy awitado",
-    "Voy a estar muy muy muy awitado",
-    "Bueno pues",
-    "DI QUE SI YAAAAAAAAA"
+    "Segura?",
+    "Muy segura??",
+    "Estas 100% segura?",
+    "No es la mejor opción",
+    "Piénsalo otra vez",
+    "Me está dando wiwi",
+    "Hazlo por la Zukita",
+    "Quiero llorar",
+    "mmmh pucha",
+    "DI QUE Sí YAAAAAAAAA"
 ];
 
 let messageIndex = 0;
